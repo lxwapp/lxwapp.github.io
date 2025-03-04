@@ -1,0 +1,34 @@
+[
+    [
+        "title":"海外直播源1",
+        "titleEn":"海外直播源1",
+        "url":"https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u"],
+    [
+        "title":"海外直播源2",
+        "titleEn":"海外直播源2",
+        "url":"https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B02022-7.m3u"],
+    [
+        "title":"海外直播源3",
+        "titleEn":"海外直播源3",
+        "url":"https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B02023.m3u8"],
+    [
+        "title":"海外直播源4",
+        "titleEn":"海外直播源4",
+        "url":"https://iptv-org.github.io/iptv/index.m3u"],
+    [
+        "title":"海外直播源5",
+        "titleEn":"海外直播源5",
+        "url":"https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8"],
+    [
+        "title":"海外直播源6",
+        "titleEn":"海外直播源6",
+        "url":"https://raw.githubusercontent.com/Moexin/IPTV/refs/heads/Files/Adult.m3u"],
+    [
+        "title":"中国直播源",
+        "titleEn":"中国直播源",
+        "url":"https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u"],
+    [
+        "title":"日本直播源",
+        "titleEn":"日本直播源",
+        "url":"https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u"]
+]
